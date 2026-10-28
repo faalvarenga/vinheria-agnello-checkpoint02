@@ -1,0 +1,35 @@
+body {
+background-color: #2b0f14;
+color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #e0c9b0;
+}
+
+p {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+img {
+  border-radius: 80%;
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
+
+.descricao {
+    text-align: center;
+}
+
+.rodape {
+    text-align: center;
+    color: gray;
+}
+
+.logo {
+    margin-bottom: 0%;
+    display: flex;
+}
